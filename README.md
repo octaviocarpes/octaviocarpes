@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Made in Web**
 
-- 🌱 I’m currently learning **Python!**
+- 🌱 I’m currently learning **AWS!**
 
 - 📫 How to reach me **octavio.carpes10@gmail.com**
 
